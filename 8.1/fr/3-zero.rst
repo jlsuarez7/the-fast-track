@@ -158,13 +158,13 @@ Créez un nouveau projet Upsun distant :
 
 .. code-block:: terminal
 
-    $ symfony cloud:project:create --title="Guestbook" --plan=development
+    $ symfony cloud:project:create --title="Guestbook"
 
 Cette commande fait beaucoup de choses :
 
 * La première fois que vous lancez cette commande, identifiez-vous avec votre compte Upsun, si ce n'était pas déjà fait.
 
-* Elle crée un nouveau projet sur Upsun (vous bénéficiez de 30 jours *gratuits* sur le premier projet que vous créez).
+* Elle crée un nouveau projet sur Upsun (le premier projet que vous créez bénéficie d'un `essai gratuit`_).
 
 Puis, déployez :
 
@@ -210,3 +210,4 @@ Notez que vous n'obtenez pas la belle page par défaut de Symfony sur Upsun. Pou
 .. _`recettes créées par la communauté`: https://github.com/symfony/recipes-contrib
 .. _`serveur web local de Symfony`: https://symfony.com/doc/current/setup/symfony_server.html
 .. _`documentation d'Upsun`: https://developer.upsun.com/docs/get-started/stacks/symfony/index?utm_source=symfony-cloud-sign-up&utm_medium=backlink&utm_campaign=Symfony-Cloud-sign-up&utm_content=symfony-book
+.. _`essai gratuit`: https://developer.upsun.com/docs/glossary?utm_source=symfony-cloud-sign-up&utm_medium=backlink&utm_campaign=Symfony-Cloud-sign-up&utm_content=symfony-book#trial

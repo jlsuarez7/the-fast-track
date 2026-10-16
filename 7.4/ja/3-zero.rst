@@ -158,13 +158,13 @@ PHP をサポートしているどんなプロバイダーでもこのアプリ�
 
 .. code-block:: terminal
 
-    $ symfony cloud:project:create --title="Guestbook" --plan=development
+    $ symfony cloud:project:create --title="Guestbook"
 
 このコマンドはたくさんのことを行います:
 
 * はじめてこのコマンドを使用すると、Upsun のクレデンシャルの認証をまだしていなかった場合は、認証を行います。
 
-* 新しい Upsun のプロジェクトを用意します(初めて作成した開発プロジェクトでは、30日間は *無料* で使用できます)。
+* 新しい Upsun のプロジェクトを用意します(初めて作成したプロジェクトでは `無料トライアル`_ を利用できます)。
 
 デプロイしましょう:
 
@@ -210,3 +210,4 @@ Upsun 上ではきれいなデフォルトの Symfony のページは表示さ�
 .. _`コミュニティによるレシピ`: https://github.com/symfony/recipes-contrib
 .. _`Symfony のローカルのWebサーバー`: https://symfony.com/doc/current/setup/symfony_server.html
 .. _`Upsun のドキュメント`: https://developer.upsun.com/docs/get-started/stacks/symfony/index?utm_source=symfony-cloud-sign-up&utm_medium=backlink&utm_campaign=Symfony-Cloud-sign-up&utm_content=symfony-book
+.. _`無料トライアル`: https://developer.upsun.com/docs/glossary?utm_source=symfony-cloud-sign-up&utm_medium=backlink&utm_campaign=Symfony-Cloud-sign-up&utm_content=symfony-book#trial

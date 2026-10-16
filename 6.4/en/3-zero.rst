@@ -164,7 +164,7 @@ This command does a lot:
 
 * The first time you launch this command, authenticate with your Platform.sh credentials if not done already.
 
-* It provisions a new project on Platform.sh (you get 30 days *for free* on the first project you create).
+* It provisions a new project on Platform.sh (the first project you create comes with a `free trial`_).
 
 Then, deploy:
 
@@ -210,3 +210,4 @@ Note that you don't get the beautiful default Symfony page on Platform.sh. Why? 
 .. _`recipes contributed by the community`: https://github.com/symfony/recipes-contrib
 .. _`Symfony Local Web Server`: https://symfony.com/doc/current/setup/symfony_server.html
 .. _`Platform.sh documentation`: https://docs.platform.sh/guides/symfony.html?utm_source=symfony-cloud-sign-up&utm_medium=backlink&utm_campaign=Symfony-Cloud-sign-up&utm_content=symfony-book
+.. _`free trial`: https://developer.upsun.com/docs/glossary?utm_source=symfony-cloud-sign-up&utm_medium=backlink&utm_campaign=Symfony-Cloud-sign-up&utm_content=symfony-book#trial

@@ -164,7 +164,7 @@ PHP をサポートしているどんなプロバイダーでもこのアプリ�
 
 * はじめてこのコマンドを使用すると、Platform.sh のクレデンシャルの認証をまだしていなかった場合は、認証を行います。
 
-* 新しい Platform.sh のプロジェクトを用意します(初めて作成した開発プロジェクトでは、30日間は *無料* で使用できます)。
+* 新しい Platform.sh のプロジェクトを用意します(初めて作成したプロジェクトでは `無料トライアル`_ を利用できます)。
 
 デプロイしましょう:
 
@@ -210,3 +210,4 @@ Platform.sh 上ではきれいなデフォルトの Symfony のページは表�
 .. _`コミュニティによるレシピ`: https://github.com/symfony/recipes-contrib
 .. _`Symfony のローカルのWebサーバー`: https://symfony.com/doc/current/setup/symfony_server.html
 .. _`Platform.sh のドキュメント`: https://docs.platform.sh/guides/symfony.html?utm_source=symfony-cloud-sign-up&utm_medium=backlink&utm_campaign=Symfony-Cloud-sign-up&utm_content=symfony-book
+.. _`無料トライアル`: https://developer.upsun.com/docs/glossary?utm_source=symfony-cloud-sign-up&utm_medium=backlink&utm_campaign=Symfony-Cloud-sign-up&utm_content=symfony-book#trial

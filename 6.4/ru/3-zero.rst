@@ -164,7 +164,7 @@
 
 * При первом запуске этой команды нужно пройти аутентификацию с помощью учётной записи Platform.sh, если вы ранее этого не сделали.
 
-* Команда создаст новый проект на Platform.sh (в течение 30 дней вы можете *бесплатно* разместить первый созданный вами проект).
+* Команда создаст новый проект на Platform.sh (для первого созданного вами проекта доступен `бесплатный пробный период`_).
 
 Наконец, разворачиваем приложение:
 
@@ -210,3 +210,4 @@
 .. _`рецептов сообщества`: https://github.com/symfony/recipes-contrib
 .. _`Локальный веб-сервер Symfony`: https://symfony.com/doc/current/setup/symfony_server.html
 .. _`Документация Platform.sh`: https://docs.platform.sh/guides/symfony.html?utm_source=symfony-cloud-sign-up&utm_medium=backlink&utm_campaign=Symfony-Cloud-sign-up&utm_content=symfony-book
+.. _`бесплатный пробный период`: https://developer.upsun.com/docs/glossary?utm_source=symfony-cloud-sign-up&utm_medium=backlink&utm_campaign=Symfony-Cloud-sign-up&utm_content=symfony-book#trial

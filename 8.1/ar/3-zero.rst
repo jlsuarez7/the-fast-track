@@ -178,13 +178,13 @@
 
 .. code-block:: terminal
 
-    $ symfony project:create --title="Guestbook" --plan=development
+    $ symfony project:create --title="Guestbook"
 
 هذا الأمر يفعل الكثير:
 
 * المرة الأولى التي تنفذ فيها هذا الأمر، قم بعمل المصادقة مع اعدادات دخولك لـ SymfonyConnect اذا لم تقم بذلك من قبل.
 
-* تقوم بتوفير مشروع جديد على Upsun (تحصل على 7 أيام *مجانا* على أي مشروع تطوير جديد).
+* تقوم بتوفير مشروع جديد على Upsun (يأتي أول مشروع تنشئه مع `فترة تجريبية مجانية <https://developer.upsun.com/docs/glossary?utm_source=symfony-cloud-sign-up&utm_medium=backlink&utm_campaign=Symfony-Cloud-sign-up&utm_content=symfony-book#trial>`_).
 
 بعد ذلك، ارفع deploy:
 

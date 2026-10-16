@@ -158,13 +158,13 @@
 
 .. code-block:: terminal
 
-    $ symfony cloud:project:create --title="Guestbook" --plan=development
+    $ symfony cloud:project:create --title="Guestbook"
 
 Эта команда выполняет ряд операций:
 
 * При первом запуске этой команды нужно пройти аутентификацию с помощью учётной записи Upsun, если вы ранее этого не сделали.
 
-* Команда создаст новый проект на Upsun (в течение 30 дней вы можете *бесплатно* разместить первый созданный вами проект).
+* Команда создаст новый проект на Upsun (для первого созданного вами проекта доступен `бесплатный пробный период`_).
 
 Наконец, разворачиваем приложение:
 
@@ -210,3 +210,4 @@
 .. _`рецептов сообщества`: https://github.com/symfony/recipes-contrib
 .. _`Локальный веб-сервер Symfony`: https://symfony.com/doc/current/setup/symfony_server.html
 .. _`Документация Upsun`: https://developer.upsun.com/docs/get-started/stacks/symfony/index?utm_source=symfony-cloud-sign-up&utm_medium=backlink&utm_campaign=Symfony-Cloud-sign-up&utm_content=symfony-book
+.. _`бесплатный пробный период`: https://developer.upsun.com/docs/glossary?utm_source=symfony-cloud-sign-up&utm_medium=backlink&utm_campaign=Symfony-Cloud-sign-up&utm_content=symfony-book#trial

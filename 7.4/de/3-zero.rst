@@ -158,13 +158,13 @@ Erstelle ein neues remote Upsun-Projekt:
 
 .. code-block:: terminal
 
-    $ symfony cloud:project:create --title="Guestbook" --plan=development
+    $ symfony cloud:project:create --title="Guestbook"
 
 Dieser Befehl macht viel:
 
 * Wenn Du diesen Befehl zum ersten Mal ausführst, dann authentifiziere Dich mit Deinen Upsun-Zugangsdaten, falls noch nicht geschehen.
 
-* Er stellt ein neues Projekt auf Upsun bereit (Du erhältst 30 Tage *kostenlos* für Dein erstes Projekt).
+* Er stellt ein neues Projekt auf Upsun bereit (für Dein erstes Projekt gibt es eine `kostenlose Testphase`_).
 
 Dann deploye:
 
@@ -210,3 +210,4 @@ Beachte, dass Du nicht die schöne Standard-Symfony-Seite auf der Upsun erhälts
 .. _`der Community beigesteuerten Recipes`: https://github.com/symfony/recipes-contrib
 .. _`lokale Symfony Webserver`: https://symfony.com/doc/current/setup/symfony_server.html
 .. _`Upsun-Dokumentation`: https://developer.upsun.com/docs/get-started/stacks/symfony/index?utm_source=symfony-cloud-sign-up&utm_medium=backlink&utm_campaign=Symfony-Cloud-sign-up&utm_content=symfony-book
+.. _`kostenlose Testphase`: https://developer.upsun.com/docs/glossary?utm_source=symfony-cloud-sign-up&utm_medium=backlink&utm_campaign=Symfony-Cloud-sign-up&utm_content=symfony-book#trial
