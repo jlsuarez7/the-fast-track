@@ -184,7 +184,7 @@
 
 * اولین‌بار که این فرمان را اجرا می‌کنید، اگر تا به حال احراز هویت نکرده‌اید، با اعتبارنامه‌های SymfonyConnect متعلق به خودتان، احراز هویت کنید.
 
-* این فرمان یک پروژه‌ی جدید بر روی SymfonyCloud تدارک می‌بیند (به ازای هر پروژه‌ی توسعه‌ای جدید،‌ ۷ روز *به صورت رایگان* دریافت می‌کند).
+* این فرمان یک پروژه‌ی جدید بر روی SymfonyCloud تدارک می‌بیند (نخستین پروژه‌ای که ایجاد می‌کنید با یک `دوره‌ی آزمایشی رایگان <https://developer.upsun.com/docs/glossary?utm_source=symfony-cloud-sign-up&utm_medium=backlink&utm_campaign=Symfony-Cloud-sign-up&utm_content=symfony-book#trial>`_ همراه است).
 
 سپس مستقر کنید:
 

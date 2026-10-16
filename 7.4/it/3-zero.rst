@@ -164,7 +164,7 @@ Questo comando fa un sacco di cose:
 
 * La prima volta che si lancia questo comando, bisognerà autenticarsi con le proprie credenziali di Upsun, se non lo si ha già fatto.
 
-* Inizializza un nuovo progetto su Upsun (si hanno trenta giorni di tempo *gratis* sul primo progetto creato).
+* Inizializza un nuovo progetto su Upsun (il primo progetto creato include una `prova gratuita`_).
 
 Poi, fare un deploy:
 
@@ -210,3 +210,4 @@ Si noti che non si ottiene la bellissima pagina predefinita di Symfony su Upsun.
 .. _`ricette fornite dalla comunità`: https://github.com/symfony/recipes-contrib
 .. _`server web locale di Symfony`: https://symfony.com/doc/current/setup/symfony_server.html
 .. _`documentazione di Upsun`: https://developer.upsun.com/docs/get-started/stacks/symfony/index?utm_source=symfony-cloud-sign-up&utm_medium=backlink&utm_campaign=Symfony-Cloud-sign-up&utm_content=symfony-book
+.. _`prova gratuita`: https://developer.upsun.com/docs/glossary?utm_source=symfony-cloud-sign-up&utm_medium=backlink&utm_campaign=Symfony-Cloud-sign-up&utm_content=symfony-book#trial

@@ -164,7 +164,7 @@ To polecenie wykonuje szereg operacji:
 
 * Uwierzytelnia Cię przy jego pierwszym uruchomieniu, używając danych do logowania serwisu Upsun.
 
-* Tworzy nowy projekt na Upsun. Hosting pierwszego projektu, który stworzysz na platformie Upsun jest *bezpłatny* przez pierwsze 30 dni.
+* Tworzy nowy projekt na Upsun (pierwszy utworzony przez Ciebie projekt obejmuje `bezpłatny okres próbny`_).
 
 Zatem wdrażajmy:
 
@@ -210,3 +210,4 @@ Zauważ, że nie otrzymujesz pięknej, domyślnej strony Symfony na Upsun. Dlacz
 .. _`przepisów przekazanych przez społeczność`: https://github.com/symfony/recipes-contrib
 .. _`Lokalny serwer WWW Symfony`: https://symfony.com/doc/current/setup/symfony_server.html
 .. _`Dokumentacja Upsun`: https://developer.upsun.com/docs/get-started/stacks/symfony/index?utm_source=symfony-cloud-sign-up&utm_medium=backlink&utm_campaign=Symfony-Cloud-sign-up&utm_content=symfony-book
+.. _`bezpłatny okres próbny`: https://developer.upsun.com/docs/glossary?utm_source=symfony-cloud-sign-up&utm_medium=backlink&utm_campaign=Symfony-Cloud-sign-up&utm_content=symfony-book#trial

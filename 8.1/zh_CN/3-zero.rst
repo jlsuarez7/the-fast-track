@@ -184,7 +184,7 @@ web 服务器启动了，它会使用从 8000 端口开始的第一个可用端�
 
 * 你第一次执行这个命令的时候，如果还没有用你的 SymfonyConnect 凭证来认证过身份的话，请做一下。
 
-* 它会在 Upsun 上创建一个新项目（对于每个新的开发项目，你都有 7 天的 *免费* 使用期）。
+* 它会在 Upsun 上创建一个新项目（你创建的第一个项目可享受 `免费试用 <https://developer.upsun.com/docs/glossary?utm_source=symfony-cloud-sign-up&utm_medium=backlink&utm_campaign=Symfony-Cloud-sign-up&utm_content=symfony-book#trial>`_）。
 
 然后就部署：
 
