@@ -158,7 +158,7 @@ Stwórz nowy projekt zdalny Upsun:
 
 .. code-block:: terminal
 
-    $ symfony cloud:project:create --title="Guestbook" --plan=development
+    $ symfony cloud:project:create --title="Guestbook"
 
 To polecenie wykonuje szereg operacji:
 

@@ -178,7 +178,7 @@ web 服务器启动了，它会使用从 8000 端口开始的第一个可用端�
 
 .. code-block:: terminal
 
-    $ symfony project:create --title="Guestbook" --plan=development
+    $ symfony project:create --title="Guestbook"
 
 这个命令会做很多工作：
 

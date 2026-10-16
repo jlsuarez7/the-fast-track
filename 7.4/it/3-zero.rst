@@ -158,7 +158,7 @@ Creare un nuovo progetto remoto su Upsun:
 
 .. code-block:: terminal
 
-    $ symfony cloud:project:create --title="Guestbook" --plan=development
+    $ symfony cloud:project:create --title="Guestbook"
 
 Questo comando fa un sacco di cose:
 

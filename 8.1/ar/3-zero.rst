@@ -178,7 +178,7 @@
 
 .. code-block:: terminal
 
-    $ symfony project:create --title="Guestbook" --plan=development
+    $ symfony project:create --title="Guestbook"
 
 هذا الأمر يفعل الكثير:
 

@@ -178,7 +178,7 @@
 
 .. code-block:: bash
 
-    $ symfony project:create --title="Guestbook" --plan=development
+    $ symfony project:create --title="Guestbook"
 
 این فرمان کارهای زیادی انجام می‌دهد:
 

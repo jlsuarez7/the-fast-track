@@ -158,7 +158,7 @@ PHP をサポートしているどんなプロバイダーでもこのアプリ�
 
 .. code-block:: terminal
 
-    $ symfony cloud:project:create --title="Guestbook" --plan=development
+    $ symfony cloud:project:create --title="Guestbook"
 
 このコマンドはたくさんのことを行います:
 
